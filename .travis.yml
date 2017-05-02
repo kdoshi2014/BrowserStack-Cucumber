@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "6.10.2"
+
+addons:
+  browserstack:
+    username: "kalpeshdoshi3"
+    access_key: "m2aptVX2yktTTm4RR7rT"
+
